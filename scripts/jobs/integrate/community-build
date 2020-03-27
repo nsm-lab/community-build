@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+set -e
+
+# the `projects` jenkins job param can be used to limit the projects to build
+./run.sh $projects
