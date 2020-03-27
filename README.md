@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Scala 2 Community Build
 
 In this repository we build and test a large corpus of open-source Scala 2 projects.
@@ -32,3 +33,7 @@ issues and incompatibilities.
 ## Read more
 
 [Further documentation is in the wiki](https://github.com/scala/community-builds/wiki).
+=======
+# community-build
+Scala 2 community build — a corpus of open-source repos built against Scala nightlies
+>>>>>>> b46254af89071822ba790c2bd2147e5b048051bc
